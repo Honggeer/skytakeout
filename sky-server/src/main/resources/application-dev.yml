@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tRg62wudkm4twY9fLRa
     access-key-secret: FZfuIFlKnfYryJ5UxgEN5DPqaUcxwy
     bucket-name: sky-itcast-geer
+  redis:
+    host: localhost
+    password: Cc@981208
+    port: 6379
+    database: 10
